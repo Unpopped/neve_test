@@ -1,0 +1,4 @@
+{"level":30,"time":"2020-11-29T16:19:27.073Z","pid":16728,"hostname":"Ady-PC","msg":"Listening on 54299"}
+{"level":30,"time":"2020-11-29T16:19:29.246Z","pid":16728,"hostname":"Ady-PC","msg":"Changed active context"}
+{"level":30,"time":"2020-11-29T16:19:30.406Z","pid":16728,"hostname":"Ady-PC","msg":"Video path: undefined"}
+{"level":30,"time":"2020-11-29T16:19:30.407Z","pid":16728,"hostname":"Ady-PC","msg":"Changed active page"}
